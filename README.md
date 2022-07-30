@@ -21,8 +21,8 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-[Desktop Version](desktop-view.jpg)
-[Mobile Version](mobile-view.jpg)
+![Desktop Version](desktop-view.jpg)
+![Mobile Version](mobile-view.jpg)
 
 
 
