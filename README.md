@@ -24,10 +24,13 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
+![](C:\Users\ninuo\Downloads\FireShot\desktop-view.jpg)
+
+
 
 ### Links
 
-- Solution URL: [Code On GitHub]([https://github.com/Ninuolafs/stats-preview-component])
+- Solution URL: [Code On GitHub](https://github.com/Ninuolafs/stats-preview-component)
 - Live Site URL: [GitHub Live URL](https://ninuolafs.github.io/stats-preview-component/)
 
 ## My process
