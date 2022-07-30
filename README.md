@@ -20,8 +20,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+
+
 Desktop Version
 ![Desktop Version](desktop-view.jpg)
+
 Mobile Version
 ![Mobile Version](mobile-view.jpg)
 
