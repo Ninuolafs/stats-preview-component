@@ -54,6 +54,6 @@ I will do more challeges to develop myself.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Ninuola Femi-Sanni](https://ninuolafs.github.io/Personal-Site/)
 - Frontend Mentor - [@Ninuolafs](https://www.frontendmentor.io/profile/Ninuolafs)
 - Twitter - [@ninuola_fs](https://twitter.com/ninuola_fs)
