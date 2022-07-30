@@ -24,15 +24,11 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
-
-![](./C:\Users\ninuo\Downloads\FireShot\desktop - Frontend Mentor - Stats preview card component -.jpg/screenshot.jpg)
-
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://github.com/Ninuolafs/stats-preview-component])
-- Live Site URL: [Add live site URL here](https://ninuolafs.github.io/stats-preview-component/)
+- Solution URL: [Code On GitHub]([https://github.com/Ninuolafs/stats-preview-component])
+- Live Site URL: [GitHub Live URL](https://ninuolafs.github.io/stats-preview-component/)
 
 ## My process
 
@@ -54,5 +50,5 @@ I will do more challeges to develop myself.
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Ninuolafs]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Ninuolafs))
-- Twitter - [@ninuola_fs]([https://twitter.com/ninuola_fs])
+- Frontend Mentor - [@Ninuolafs](https://www.frontendmentor.io/profile/Ninuolafs)
+- Twitter - [@ninuola_fs](https://twitter.com/ninuola_fs)
